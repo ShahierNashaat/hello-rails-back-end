@@ -22,8 +22,7 @@ To get a local copy up and running follow these simple example steps.
 - open the command prompt in this directory.
 - write `git clone https://github.com/ShahierNashaat/hello-rails-back-end.git`.
 - go to the repository folder in your command prompt.
-- run `bundle install`.
-- run `npm install`
+- run `bundle install`
 - To create database run `rails db:create`
 - run `rails db:migrate`
 - run `rails db:seed`
